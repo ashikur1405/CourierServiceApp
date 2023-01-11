@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631969222360",
+    "project_id": "delivery-bc32f",
+    "storage_bucket": "delivery-bc32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631969222360:android:dacf04f86bcbc6d812d1ad",
+        "android_client_info": {
+          "package_name": "com.example.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631969222360-cst9pa9j16tiu8mc16d7787qku7sm1f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlwu25G5Z0uOntpU5RCqhpMh3PNmujlcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631969222360-cst9pa9j16tiu8mc16d7787qku7sm1f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
